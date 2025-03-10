@@ -1,0 +1,15 @@
+/workspaces/FizzBuzz/FizzBuzzApp/bin/Debug/net8.0/FizzBuzzApp
+/workspaces/FizzBuzz/FizzBuzzApp/bin/Debug/net8.0/FizzBuzzApp.deps.json
+/workspaces/FizzBuzz/FizzBuzzApp/bin/Debug/net8.0/FizzBuzzApp.runtimeconfig.json
+/workspaces/FizzBuzz/FizzBuzzApp/bin/Debug/net8.0/FizzBuzzApp.dll
+/workspaces/FizzBuzz/FizzBuzzApp/bin/Debug/net8.0/FizzBuzzApp.pdb
+/workspaces/FizzBuzz/FizzBuzzApp/obj/Debug/net8.0/FizzBuzzApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/FizzBuzz/FizzBuzzApp/obj/Debug/net8.0/FizzBuzzApp.AssemblyInfoInputs.cache
+/workspaces/FizzBuzz/FizzBuzzApp/obj/Debug/net8.0/FizzBuzzApp.AssemblyInfo.cs
+/workspaces/FizzBuzz/FizzBuzzApp/obj/Debug/net8.0/FizzBuzzApp.csproj.CoreCompileInputs.cache
+/workspaces/FizzBuzz/FizzBuzzApp/obj/Debug/net8.0/FizzBuzzApp.sourcelink.json
+/workspaces/FizzBuzz/FizzBuzzApp/obj/Debug/net8.0/FizzBuzzApp.dll
+/workspaces/FizzBuzz/FizzBuzzApp/obj/Debug/net8.0/refint/FizzBuzzApp.dll
+/workspaces/FizzBuzz/FizzBuzzApp/obj/Debug/net8.0/FizzBuzzApp.pdb
+/workspaces/FizzBuzz/FizzBuzzApp/obj/Debug/net8.0/FizzBuzzApp.genruntimeconfig.cache
+/workspaces/FizzBuzz/FizzBuzzApp/obj/Debug/net8.0/ref/FizzBuzzApp.dll
